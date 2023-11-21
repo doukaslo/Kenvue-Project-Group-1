@@ -4,7 +4,7 @@ Project Plan
 
 How will we approach this problem?:
 
-	We will approach this project from the perspective of answering our main question: How can Kenvue optimize their trade spend (promotion $) for one of their 6 Need States? 
+We will approach this project from the perspective of answering our main question: How can Kenvue optimize their trade spend (promotion $) for one of their 6 Need States? 
 
 Step #1: The first stage in answering this question is to organize and clean the data Kenvue provided for all 6 of their Need States. Once we have organized the data, we will be able to analyze the Need States and determine if there are seasonal trends in sales, inventory, and trade spending. All of our analysis will be visualized through tools that we have learned in class. 
 
